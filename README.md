@@ -8,3 +8,4 @@ GoldSrc / Counter-Strike 1.6 / Mechanics Movement / Unity / Gun / Maps / Cuts / 
 
 ## CREDITS
 Gravity Gun by Aficionado, licensed under CC BY 4.0
+Portal Gun (Retry School) by Pixman, licensed under CC BY 4.0
